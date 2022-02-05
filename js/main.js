@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------
 [Main Script]
 
-Project     : p1-zoeCashHtml
+Project     : Utility token for freelancers and descentralized financial culture
 Version     : 1.0
 Author      : Md Ekramul Hassan Avi
 Author URI  : https://www.tigertemplate.com
