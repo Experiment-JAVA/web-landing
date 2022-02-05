@@ -145,14 +145,14 @@ ul li{list-style-type: none;}
 */
 
 .common-style .fs102{font-size: 102px;}
-.common-style .fs74{font-size: 74px;}
+.common-style .fs74{font-size: 74px; user-select: none;}
 .common-style .fs60{font-size: 60px;}
 .common-style .fs48{font-size: 48px;}
-.common-style .fs55{font-size: 55px;}
+.common-style .fs55{font-size: 55px; user-select: none;}
 .common-style .fs31{font-size: 31px;}
 .common-style .fs30{font-size: 30px;}
 .common-style .fs34{font-size: 34px;}
-.common-style .fs28{font-size: 28px;}
+.common-style .fs28{font-size: 28px; user-select: none;}
 .common-style .fs27{font-size: 27px;}
 .common-style .fs25{font-size: 25px;}
 .common-style .fs24{font-size: 24px;}
@@ -160,7 +160,7 @@ ul li{list-style-type: none;}
 .common-style .fs21{font-size: 21px;}
 .common-style .fs20{font-size: 20px;}
 .common-style .fs18{font-size: 18px;}
-.common-style .fs15{font-size: 15px;}
+.common-style .fs15{font-size: 15px; user-select: none;}
 .common-style .fs14{font-size: 14px;}
 
 .common-style .text-700, .common-style b, .common-style strong {
